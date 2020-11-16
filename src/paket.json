@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Bayi",
+        "strike_price": "19.900",
+        "price": "14.900",
+        "users": "3554",
+        "resource_power": "0.5",
+        "details": [
+            "500 MB.Disk Space",
+            "Unilimited.Bandwith",
+            "UNlimited.Dabases"
+        ],
+        "best": false
+    },
+    {
+        "name": "Pelajar",
+        "strike_price": "19.900",
+        "price": "15.900",
+        "users": "3554",
+        "resource_power": "1",
+        "details": [
+            "500 MB.Disk Space",
+            "Unilimited.Bandwith",
+            "UNlimited.Dabases"
+        ],
+        "best": false
+    },
+    {
+        "name": "Personal",
+        "strike_price": "19.900",
+        "price": "14.900",
+        "users": "35994",
+        "resource_power": "2",
+        "details": [
+            "500 MB.Disk Space",
+            "Unilimited.Bandwith",
+            "UNlimited.Dabases"
+        ],
+        "best": true
+    },
+    {
+        "name": "Bisnis",
+        "strike_price": "19.900",
+        "price": "65.900",
+        "users": "3554877",
+        "resource_power": "3",
+        "details": [
+            "2 GB.Disk Space",
+            "Unilimited.Bandwith",
+            "UNlimited.Dabases"
+        ],
+        "best": false
+    }
+]

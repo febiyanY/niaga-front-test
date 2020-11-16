@@ -87,12 +87,16 @@
             <div class="row">
                 <div class="col-sm-4 banner">
                     <h2>PHP Hosting</h2>
-                    <p>Cepat handal penuh dengan modul php yang anda butuhkan</p><br>
+                    <p>Cepat handal penuh dengan modul php yang Anda butuhkan</p><br>
                     <div class="list">
-                        <p><span><img src="/assets/svg/check-mark.svg" alt="" style="width: 1rem;"></span> List satu</p>
-                        <p><span><img src="/assets/svg/check-mark.svg" alt="" style="width: 1rem;"></span> List satu</p>
-                        <p><span><img src="/assets/svg/check-mark.svg" alt="" style="width: 1rem;"></span> List satu</p>
-                        <p><span><img src="/assets/svg/check-mark.svg" alt="" style="width: 1rem;"></span> List satu</p>
+                        <p><span><img src="/assets/svg/check-mark.svg" alt="" style="width: 1rem;"></span> Solusi PHP
+                            untuk performa query yang lebih cepat</p>
+                        <p><span><img src="/assets/svg/check-mark.svg" alt="" style="width: 1rem;"></span> Konsumsi
+                            memory yang lebih rendah</p>
+                        <p><span><img src="/assets/svg/check-mark.svg" alt="" style="width: 1rem;"></span> Support PHP
+                            5.3, PHP 5.4, PHP 5.6, PHP 5.7 dan PHP 7</p>
+                        <p><span><img src="/assets/svg/check-mark.svg" alt="" style="width: 1rem;"></span> Fitur
+                            enkripsi IonCube dan Zend Guard Loaders</p>
                     </div>
                 </div>
                 <div class="col-sm-6 ml-auto php-hosting-image">
@@ -175,9 +179,6 @@
                         <p class="user"><b>blabla</b> blalba</p>
                         <p class="user"><b>blabla</b> blalba</p>
                         <p class="user"><b>blabla</b> blalba</p>
-                        <p class="user"><b>blabla</b> blalba</p>
-                        <p class="user"><b>blabla</b> blalba</p>
-                        <p class="user"><b>blabla</b> blalba</p>
 
                         <button class="button-off">Pilih Sekarang</button>
                     </div>
@@ -196,12 +197,6 @@
                     </div>
                     <div class="inner-box-last">
                         <p class="user" style="font-weight: bold;">RESOURCE POWER</p>
-                        <p class="user"><b>blabla</b> blalba</p>
-                        <p class="user"><b>blabla</b> blalba</p>
-                        <p class="user"><b>blabla</b> blalba</p>
-                        <p class="user"><b>blabla</b> blalba</p>
-                        <p class="user"><b>blabla</b> blalba</p>
-                        <p class="user"><b>blabla</b> blalba</p>
                         <p class="user"><b>blabla</b> blalba</p>
                         <p class="user"><b>blabla</b> blalba</p>
                         <p class="user"><b>blabla</b> blalba</p>
@@ -234,15 +229,6 @@
                         <p class="user"><b>blabla</b> blalba</p>
                         <p class="user"><b>blabla</b> blalba</p>
                         <p class="user"><b>blabla</b> blalba</p>
-                        <p class="user"><b>blabla</b> blalba</p>
-                        <p class="user"><b>blabla</b> blalba</p>
-                        <p class="user"><b>blabla</b> blalba</p>
-                        <p class="user"><b>blabla</b> blalba</p>
-                        <p class="user"><b>blabla</b> blalba</p>
-                        <p class="user"><b>blabla</b> blalba</p>
-                        <p class="user"><b>blabla</b> blalba</p>
-                        <p class="user"><b>blabla</b> blalba</p>
-                        <p class="user"><b>blabla</b> blalba</p>
 
                         <button class="button-off">Pilih Sekarang</button>
                     </div>
@@ -267,27 +253,27 @@
                         <img src="/assets/svg/check-mark.svg" alt=""">
                         <p>max execution time 300s</p>
                     </div>
-                    <div class="text even">
+                    <div class=" text even">
                         <img src="/assets/svg/check-mark.svg" alt=""">
                         <p>max execution time 300s</p>
                     </div>
                     <div class=" text">
                         <img src="/assets/svg/check-mark.svg" alt=""">
-                        <p>max execution time 300s</p>
+                        <p>php memory limit 1024</p>
                     </div>
                 </div>
                 <div class=" col-sm-4 table-row">
                         <div class="text">
                             <img src="/assets/svg/check-mark.svg" alt=""">
-                        <p>max execution time 300s</p>
+                        <p>post max size 128 MB</p>
                     </div>
                     <div class=" text even">
                             <img src="/assets/svg/check-mark.svg" alt=""">
-                        <p>max execution time 300s</p>
+                        <p>upload max filesize 128 MB</p>
                     </div>
                     <div class=" text">
                             <img src="/assets/svg/check-mark.svg" alt=""">
-                        <p>max execution time 300s</p>
+                        <p>max input vars 2500</p>
                     </div>
                 </div>
 
@@ -307,17 +293,18 @@
                                 <div class="col-sm-4 feature-box">
                                     <img src="/assets/svg/icon PHP Hosting_PHP Semua Versi.svg" alt="">
                                     <p class="title">PHP Semua Versi</p>
-                                    <p class="description">Pilih mulai dari PHP versi 5.3 blabla blabla balbal</p>
+                                    <p class="description">Pilih mulai dari PHP versi 5.3 s/d PHP 7 ubah sesuka anda</p>
                                 </div>
                                 <div class="col-sm-4 feature-box">
                                     <img src="/assets/svg/icon PHP Hosting_My SQL.svg" alt="">
-                                    <p class="title">PHP Semua Versi</p>
-                                    <p class="description">Pilih mulai dari PHP versi 5.3 blabla blabla balbal</p>
+                                    <p class="title">MySQL Versi 5.6</p>
+                                    <p class="description">Nikmati MySQL versi terbaru, tercepat dan kaya akan fitur</p>
                                 </div>
                                 <div class="col-sm-4 feature-box">
                                     <img src="/assets/svg/icon PHP Hosting_CPanel.svg" alt="">
-                                    <p class="title">PHP Semua Versi</p>
-                                    <p class="description">Pilih mulai dari PHP versi 5.3 blabla blabla balbal</p>
+                                    <p class="title">Panel Hosting cPanel</p>
+                                    <p class="description">Kelola website dengan panel canggih yang familiar di hati
+                                        anda</p>
                                 </div>
                             </div>
                         </div>
@@ -325,18 +312,20 @@
                             <div class="row">
                                 <div class="col-sm-4 feature-box">
                                     <img src="/assets/svg/icon PHP Hosting_garansi uptime.svg" alt="">
-                                    <p class="title">PHP Semua Versi</p>
-                                    <p class="description">Pilih mulai dari PHP versi 5.3 blabla blabla balbal</p>
+                                    <p class="title">Garansi Uptime 99.9%</p>
+                                    <p class="description">Data center yang mendukung kelangsungan Website anda 24/7</p>
                                 </div>
                                 <div class="col-sm-4 feature-box">
                                     <img src="/assets/svg/icon PHP Hosting_InnoDB.svg" alt="">
-                                    <p class="title">PHP Semua Versi</p>
-                                    <p class="description">Pilih mulai dari PHP versi 5.3 blabla blabla balbal</p>
+                                    <p class="title">Database InnoDB Unlimited</p>
+                                    <p class="description">Jumlah dan ukuran database yang tumbuh sesuai kebutuhan anda
+                                    </p>
                                 </div>
                                 <div class="col-sm-4 feature-box">
                                     <img src="/assets/svg/icon PHP Hosting_My SQL remote.svg" alt="">
-                                    <p class="title">PHP Semua Versi</p>
-                                    <p class="description">Pilih mulai dari PHP versi 5.3 blabla blabla balbal</p>
+                                    <p class="title">Wildcard Remote MySQL</p>
+                                    <p class="description">Mendukung s/d 25 max_user_connections dan 100 max_connections
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -351,17 +340,23 @@
 
                         <div class="container margin-top-bottom no-left-right-padding" id="banner2">
                             <div class="row">
-                                <div class="col-sm-4 banner">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                                        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.
+                                <div class="col-sm-5 banner">
+                                    <p>
+                                        Tidak perlu menggunakan dedicated server maupun VPS yang mahal. Layanan PHP
+                                        Hosting murah kami mendukung penuh framework favorit anda
                                     </p>
                                     <div class="list">
-                                        <p><span><img src="/assets/svg/check-mark.svg" alt="" style="width: 1rem;"></span> List satu</p>
-                                        <p><span><img src="/assets/svg/check-mark.svg" alt="" style="width: 1rem;"></span> List satu</p>
-                                        <p><span><img src="/assets/svg/check-mark.svg" alt="" style="width: 1rem;"></span> List satu</p>
-                                        <p><span><img src="/assets/svg/check-mark.svg" alt="" style="width: 1rem;"></span> List satu</p>
+                                        <p><span><img src="/assets/svg/check-mark.svg" alt=""
+                                                    style="width: 1rem;"></span> Install Laravel dengan <b>1 klik</b>
+                                            dengan Softacolous Installer</p>
+                                        <p><span><img src="/assets/svg/check-mark.svg" alt=""
+                                                    style="width: 1rem;"></span> Mendukung ekstensi <b>PHP Mcrypt, phar,
+                                                mbstring, json</b> dan <b>fileinfo</b></p>
+                                        <p><span><img src="/assets/svg/check-mark.svg" alt=""
+                                                    style="width: 1rem;"></span> Tersedia <b>Composer</b> dan <b>SSH</b>
+                                            untuk menginstall package pilihan anda</p>
+                                        <small>Nb. Composer dan SSH hanya tersedia pada paket Personal dand
+                                            Bisnis</small>
                                     </div>
                                     <button class="button-on">Pilih Hosting Anda</button>
                                 </div>
@@ -384,71 +379,69 @@
                             <div class="row justify-content-center">
                                 <div class="col-sm-2 module-box">
                                     <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHPrrgergerg</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
+                                    <p>apc</p>
+                                    <p>apcu</p>
+                                    <p>apm</p>
+                                    <p>ares</p>
+                                    <p>bcmath</p>
+                                    <p>bcompiler</p>
+                                    <p>big_int</p>
+                                    <p>bitset</p>
+                                    <p>bloomy</p>
+                                    <p>bz2_filter</p>
+                                    <p>clamav</p>
+                                    <p>coin_acceptor</p>
+                                    <p>crack</p>
+                                    <p>dba</p>
                                 </div>
                                 <div class="col-sm-2 module-box">
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHPrrgergerg</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
+                                    <p>http</p>
+                                    <p>huffman</p>
+                                    <p>idn</p>
+                                    <p>igbinary</p>
+                                    <p>imagick</p>
+                                    <p>imap</p>
+                                    <p>included</p>
+                                    <p>inotify</p>
+                                    <p>interbase</p>
+                                    <p>intl</p>
+                                    <p>ioncube_loader</p>
+                                    <p>ioncube_loader_4</p>
+                                    <p>jsmin</p>
+                                    <p>json</p>
+                                    <p>idap</p>
                                 </div>
                                 <div class="col-sm-2 module-box">
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHPrrgergerg</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
+                                    <p>nd_pdo_mysql</p>
+                                    <p>oauth</p>
+                                    <p>oci8</p>
+                                    <p>odbc</p>
+                                    <p>pdf</p>
+                                    <p>pdo</p>
+                                    <p>pdo_dblib</p>
+                                    <p>pdo_firebird</p>
+                                    <p>pdo_mysql</p>
+                                    <p>pdo_odbc</p>
+                                    <p>pdo_pgsql</p>
+                                    <p>pdo_sqlite</p>
+                                    <p>pgsql</p>
+                                    <p>phalcon</p>
                                 </div>
                                 <div class="col-sm-2 module-box">
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHPrrgergerg</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
-                                    <p>icePHP</p>
+                                    <p>stats</p>
+                                    <p>stem</p>
+                                    <p>stomp</p>
+                                    <p>suhosin</p>
+                                    <p>sybase_ct</p>
+                                    <p>sysmsg</p>
+                                    <p>sysvsem</p>
+                                    <p>tidy</p>
+                                    <p>timezonedb</p>
+                                    <p>trader</p>
+                                    <p>transit</p>
+                                    <p>uploadprogress</p>
+                                    <p>uri_template</p>
+                                    <p>uuid</p>
                                 </div>
                             </div>
                             <div class="row justify-content-center">
@@ -460,12 +453,12 @@
 
                         <div class="container margin-top-bottom no-left-right-padding" id="banner3">
                             <div class="row">
-                                <div class="col-sm-4">
-                                    <h5>Linux yang Stabil Lorem ipsummm</h5>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                                        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.
+                                <div class="col-sm-5">
+                                    <p class="title">Linux Hosting yang Stabil dengan teknologi LVE</p>
+                                    <p>SuperMicro <b>Intel Xeon 24-Cores</b> server dengan RAM <b>128 GB</b> dan teknologi <b>LVE
+                                        CloudLinux</b> untuk stablitas server Anda. Dilengkapi dengan <b>SSD</b> untuk kecepatan
+                                        <b>MySQL</b> dan caching, Apache load balancer berbasis LiteSpeed Technologies, <b>CageFS</b>
+                                        security, <b>Raid-10</b> protection dan auto backup untuk keamanan website PHP Anda.
                                     </p>
 
                                     <button class="button-on">Pilih Hosting Anda</button>
@@ -502,7 +495,7 @@
                         <div class="container" style="padding:2% 0;">
                             <div class="row help-page">
                                 <div class="col-sm-8">
-                                    <p>Perlu <b>BANTUAN ?</b> Hubungi kami : <b>8759348758</b> | </p>
+                                    <p>Perlu <b>BANTUAN ?</b> Hubungi kami : <b>0274-5305505</b> | </p>
                                 </div>
                                 <div class="col-sm-4" style="text-align: center;">
                                     <button class="button-off"> <span><img src="/assets/svg/chat-bubble.svg" alt=""
@@ -517,50 +510,50 @@
                         <div class="container footer" style="padding:2% 0;">
                             <div class="row">
                                 <div class="col-sm-3">
-                                    <p class="title">Judul</p>
+                                    <p class="title">HUBUNGI KAMI</p>
                                     <div class="content">
-                                        <p>895794-454</p>
-                                        <p>senin-minggu</p>
+                                        <p>0274-5305505</p>
+                                        <p>Senin-Minggu</p>
                                         <p>24 Jam Nonstop</p>
                                     </div>
                                     <br>
                                     <div class="content">
-                                        <p>895794-454</p>
-                                        <p>senin-minggu</p>
-                                        <p>24 Jam Nonstop</p>
+                                        <p>Jl. Selokan Mataram Monjali</p>
+                                        <p>Karangjati MT I/304</p>
+                                        <p>Sinduadi, Mlati, Slemat</p>
+                                        <p>Yogyakarta 55284</p>
                                     </div>
                                 </div>
                                 <div class="col-sm-3">
-                                    <p class="title">Judul</p>
+                                    <p class="title">LAYANAN</p>
                                     <div class="content">
-                                        <p>895794-454</p>
-                                        <p>senin-minggu</p>
-                                        <p>24 Jam Nonstop</p>
-                                        <p>895794-454</p>
-                                        <p>senin-minggu</p>
-                                        <p>24 Jam Nonstop</p>
+                                        <a href="#">Domain</a>
+                                        <a href="#">Shared Hosting</a>
+                                        <a href="#">CLoud VPS Hosting</a>
+                                        <a href="#">Managed VPS Hosting</a>
+                                        <a href="#">Web Builder</a>
+                                        <a href="#">Keamanan SSL / HTTPS</a>
+                                        <a href="#">Jasa Pembuatan Website</a>
+                                        <a href="#">Program Afiliasi</a>
                                     </div>
                                 </div>
                                 <div class="col-sm-3">
-                                    <p class="title">Judul</p>
+                                    <p class="title">SERVICE HOSTING</p>
                                     <div class="content">
-                                        <p>895794-454</p>
-                                        <p>senin-minggu</p>
-                                        <p>24 Jam Nonstop</p>
-                                        <p>895794-454</p>
-                                        <p>senin-minggu</p>
-                                        <p>24 Jam Nonstop</p>
+                                        <a href="#">Hosting Murah</a>
+                                        <a href="#">Hosting Indonesia</a>
+                                        <a href="#">Hosting Singapura SG</a>
+                                        <a href="#">Hosting PHP</a>
+                                        <a href="#">Hosting Wordpress</a>
+                                        <a href="#">Hosting Laravel</a>
                                     </div>
                                 </div>
                                 <div class="col-sm-3">
-                                    <p class="title">Judul</p>
+                                    <p class="title">TUTORIAL</p>
                                     <div class="content">
-                                        <p>895794-454</p>
-                                        <p>senin-minggu</p>
-                                        <p>24 Jam Nonstop</p>
-                                        <p>895794-454</p>
-                                        <p>senin-minggu</p>
-                                        <p>24 Jam Nonstop</p>
+                                        <a href="#">Knowledgebase</a>
+                                        <a href="#">Blog</a>
+                                        <a href="#">Cara Pembayaran</a>
                                     </div>
                                 </div>
                             </div>
@@ -568,36 +561,34 @@
                         <div class="container footer" style="padding:2% 0;">
                             <div class="row">
                                 <div class="col-sm-3">
-                                    <p class="title">Judul</p>
+                                    <p class="title">TENTANG KAMI</p>
                                     <div class="content">
-                                        <p>895794-454</p>
-                                        <p>senin-minggu</p>
-                                        <p>24 Jam Nonstop</p>
-                                        <p>895794-454</p>
-                                        <p>senin-minggu</p>
-                                        <p>24 Jam Nonstop</p>
+                                        <a href="#">Tim Niagahoster</a>
+                                        <a href="#">Karir</a>
+                                        <a href="#">Events</a>
+                                        <a href="#">Penawaran & Promo Spesial</a>
+                                        <a href="#">Kontak Kami</a>
                                     </div>
                                 </div>
                                 <div class="col-sm-3">
-                                    <p class="title">Judul</p>
+                                    <p class="title">KENAPA PILIH NIAGAHOSTER</p>
                                     <div class="content">
-                                        <p>895794-454</p>
-                                        <p>senin-minggu</p>
-                                        <p>24 Jam Nonstop</p>
-                                        <p>895794-454</p>
-                                        <p>senin-minggu</p>
-                                        <p>24 Jam Nonstop</p>
+                                        <a href="#">Support Terbaik</a>
+                                        <a href="#">Garansi Harga Termurah</a>
+                                        <a href="#">Domain Gratis Selamanya</a>
+                                        <a href="#">Datacenter Hosting Terbaik</a>
+                                        <a href="#">Review Pelanggan</a>
                                     </div>
                                 </div>
                                 <div class="col-sm-3 newsletter">
-                                    <p class="title">Judul</p>
+                                    <p class="title">NEWSLETTER</p>
                                     <!-- <button class="button-off">Berlangganan</button> -->
                                     <div class="subs-form" style="position: relative;margin-bottom: 1%;">
                                         <input type="text" placeholder="email">
-                                        <button >Berlangganan</button>
+                                        <button>Berlangganan</button>
                                     </div>
                                     <div class="content">
-                                        <p>Dapatkan konten menarik dari fewfwf oewfwoef of anda</p>
+                                        <p>Dapatkan promo dan konten menarik dari penyedia hosting terbaik Anda.</p>
                                     </div>
                                 </div>
                                 <div class="col-sm-3">
@@ -622,7 +613,7 @@
                             </div>
                             <div class="row">
                                 <div class="col-sm-12">
-                                    <p class="payment-description">Pembayaran instant dengan e payment</p>
+                                    <p class="payment-description">Aktivasi instant dengan e payment. Hosting dan Domain langsung aktif</p>
                                 </div>
                             </div>
                         </div>
@@ -630,11 +621,11 @@
                     <div class="container-fluid footer-container">
                         <div class="container footer" style="padding:2% 0;">
                             <div class="row bottom">
-                                <div class="col-sm-8 col-12 content">
-                                    <p>copyrigth blalalablabla</p>
-                                    <p>CLoud Vps murah </p>
+                                <div class="col-sm-8 col-12 copyright">
+                                    <p>Copyright ©2016 Niagahoster | Hosting powered by PHP7, CloudLinux, CloudFlare, BitNinja and DC Biznet Technovillage Jakarta</p>
+                                    <p>Cloud VPS murah powered by Webuzo Softacolous, Intel SSD and Cloud computing technology </p>
                                 </div>
-                                <div class="col-sm-4 col-12 content">
+                                <div class="col-sm-4 col-12 copyright">
                                     <p>Syarat dan ketentuan | Kebijakan Privasi</p>
                                 </div>
                             </div>
@@ -660,21 +651,21 @@
 
                     <script>
                         document.getElementById('menu-button').addEventListener('click', () => {
-                            document.getElementById('sidebar').style.right="0"
-                            document.getElementById('overlay').style.display="block"
+                            document.getElementById('sidebar').style.right = "0"
+                            document.getElementById('overlay').style.display = "block"
                         })
                         document.getElementById('overlay').addEventListener('click', () => {
-                            document.getElementById('sidebar').style.right="-75%"
-                            document.getElementById('overlay').style.display="none"
+                            document.getElementById('sidebar').style.right = "-75%"
+                            document.getElementById('overlay').style.display = "none"
                         })
 
                         let navbar = document.getElementById('navbar')
                         let sticky = navbar.offsetTop
 
-                        function stickNav(){
-                            if(window.pageYOffset >= sticky){
+                        function stickNav() {
+                            if (window.pageYOffset >= sticky) {
                                 navbar.classList.add('sticky')
-                            }else{
+                            } else {
                                 navbar.classList.remove('sticky')
                             }
                         }
@@ -691,7 +682,7 @@
                             //             child.innerHTML=`Rp <span style="font-size: 3rem;font-weight: bold;">${harga[0]}</span> <b>.${harga[1]}</b>
                             //             <span>/bln</span>`
                             //         }
-                                    
+
                             //     })
                             // })
                             // document.querySelectorAll('.package-box .title').forEach((el,index) => {
@@ -704,7 +695,7 @@
                                     let det = detail.split('.')
                                     details += `<p class="user"><b>${det[0]}</b> ${det[1]}</p>`
                                 })
-                            packageBoxContent += `<div class="col-sm-3 package-box float-left ${paket.best ? 'best' : ''}">
+                                packageBoxContent += `<div class="col-sm-3 package-box float-left ${paket.best ? 'best' : ''}">
                                                         <div class="inner-box">
                                                             <p class="title">${paket.name}</p>
                                                         </div>
@@ -724,12 +715,10 @@
                                                         </div>
                                                     </div>`
                             })
-                            
+
                         }).then(() => {
                             document.getElementById('package-box-container').innerHTML = packageBoxContent
                         })
-                        
-
                     </script>
 
 </body>

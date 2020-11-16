@@ -3,51 +3,73 @@
         "name": "Bayi",
         "strike_price": "19.900",
         "price": "14.900",
-        "users": "3554",
+        "users": "938",
         "resource_power": "0.5",
         "details": [
             "500 MB.Disk Space",
             "Unilimited.Bandwith",
-            "UNlimited.Dabases"
+            "UNlimited.Dabases",
+            "1.Domain",
+            "Instant.Backup",
+            "Unlimited SSL.Gratis Selamanya"
         ],
         "best": false
     },
     {
         "name": "Pelajar",
-        "strike_price": "19.900",
-        "price": "15.900",
-        "users": "3554",
+        "strike_price": "46.900",
+        "price": "23.450",
+        "users": "4168",
         "resource_power": "1",
         "details": [
-            "500 MB.Disk Space",
+            "Unlimited.Disk Space",
             "Unilimited.Bandwith",
-            "UNlimited.Dabases"
+            "Unlimmited.POP3 Email",
+            "Unlimited.Dabases",
+            "10.Addon Domains",
+            "Instant.Backup",
+            "Domain Gratis.Selamanya",
+            "Unlimited SSL.Gratis Selamanya"
         ],
         "best": false
     },
     {
         "name": "Personal",
-        "strike_price": "19.900",
-        "price": "14.900",
-        "users": "35994",
+        "strike_price": "58.900",
+        "price": "38.900",
+        "users": "10.017",
         "resource_power": "2",
         "details": [
-            "500 MB.Disk Space",
+            "Unlimited.Disk Space",
             "Unilimited.Bandwith",
-            "UNlimited.Dabases"
+            "Unlimmited.POP3 Email",
+            "Unlimited.Dabases",
+            "10.Addon Domains",
+            "Instant.Backup",
+            "Domain Gratis.Selamanya",
+            "Unlimited SSL.Gratis Selamanya",
+            "Private.Name Server",
+            "SpamAssassin.Mail Protection"
         ],
         "best": true
     },
     {
         "name": "Bisnis",
-        "strike_price": "19.900",
+        "strike_price": "109.900",
         "price": "65.900",
-        "users": "3554877",
+        "users": "3552",
         "resource_power": "3",
         "details": [
-            "2 GB.Disk Space",
+            "Unlimited.Disk Space",
             "Unilimited.Bandwith",
-            "UNlimited.Dabases"
+            "Unlimmited.POP3 Email",
+            "Unlimited.Dabases",
+            "10.Addon Domains",
+            "Instant.Backup",
+            "Domain Gratis.Selamanya",
+            "Unlimited SSL.Gratis Selamanya",
+            "Prioritasa.Layanan Support",
+            "SpamExpert.Pro Mail Protection"
         ],
         "best": false
     }
